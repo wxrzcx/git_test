@@ -1,8 +1,7 @@
 package com.offcn.controller;
 
-public class UserController {
-
+public class LeftController {
     public static void main(String[] args) {
-        System.out.println("这是左边的");
+        System.out.println("左边的controller");
     }
 }
